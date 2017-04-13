@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<title></title>
+<style>
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+.demo {
+	width: 980px;
+	height: 108px;
+	border-bottom: 1px solid #b8c0cc;
+	margin: 0px auto;
+}
+
+.tupian {
+	width: 114px;
+	float: left;
+	border-radius: 4px;
+	overflow: hidden;
+}
+
+.tupian img {
+	width: 100%;
+	height: 70px;
+	display: block;
+	margin: 19px auto;
+	float: left;
+}
+
+.num {
+	display: block;
+	width: 70px;
+	height: 90px;
+	line-height: 90px;
+	text-align: center;
+	font-size: 36px;
+	font-weight: bold;
+	color: #b8c0cc;
+	font-family: simhei;
+	float: left;
+	margin: 9px auto;
+}
+
+.info {
+	margin-left: 0px;
+	width: 780px;
+	margin-top: 19px;
+	display: block;
+	float: right;
+	height: 70px;
+	padding-right: 0px;
+}
+
+.title {
+	height: 20px;
+	line-height: 20px;
+	overflow: hidden;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.detail {
+	margin-top: 20px;
+	color: #99a2aa;
+	width: 770px;
+	height: 16px;
+	display: block;
+	float: left;
+	font-size: 12px;
+}
+
+.data-box {
+	margin-right: 20px;
+	width: 80px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: inline-block;
+	vertical-align: top;
+	height: 14px;
+	line-height: 12px;
+}
+
+.demo:hover {
+	border: 1px solid skyblue;
+}
+
+a {
+	outline: 0;
+	color: black;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+a:hover {
+	color: #00a1d6;
+}
+</style>
+</head>
+
+<body>
+	<div id="show" class="show">
+		<div class="demo">
+			<div class="num">1</div>
+			<div class="tupian">
+				<img src="img/1.jpg" />
+			</div>
+			<div class="info">
+				<div class="title">加载中……</div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script>
+		/*function change(id){
+			var url = "zuopingxiangqing.html?id="+id;
+			document.location.href = url;
+		}*/
+		var sign = parent.document.getElementById("ishow");
+		//console.log(sign);
+		var signname = sign.getAttribute("SonNameData");
+		var namepingjie = '/vhas/handler/video/top?order=click&type='
+				+ signname;
+		//console.log(namepingjie);
+		var UrlName = namepingjie;
+		$.ajax({
+			type : "get",
+			url : UrlName,
+			async : true,
+			dataType : "json",
+			success : function(data) {
+				var newdata = data.data.videos;
+				var AddNew = "";
+				//console.log(newdata);
+				for (var i = 0; i < newdata.length; i++) {
+					var DemoImg = newdata[i].img
+					//console.log(DemoImg);
+					var DemoTitle = newdata[i].title;
+					var DemoClick = newdata[i].click;
+					var DemoType = newdata[i].type;
+					var DemoAuthor = newdata[i].author;
+					var DemoAuthorId = newdata[i].authorId;
+					var DemoVid = newdata[i].vid;
+					var DemoId = newdata[i].id;//alert(DemoId);
+					var DemoWebid = newdata[i].webId;
+					if (DemoImg == null) {
+						DemoImg = 'img/1.jpg';
+					}
+
+					AddNew += '<div class="demo">' + '<div class="num">'
+							+ (i + 1) + '</div>' + '<div class="tupian">'
+							+ '<img src="'+DemoImg+'" />' + '</div>'
+							+ '<div class="info">'
+							+ '<a href = "zuopingxiangqing.html' + '?='
+							+ DemoId + '=' + DemoAuthorId + '=' + DemoVid + '='
+							+ DemoWebid + '">' + '<div class="title">'
+							+ DemoTitle + '</div>' + '</a>'
+							+ '<div class="detail">'
+							+ '<span class="data-box" id="click">' + DemoClick
+							+ '</span>' + '<span class="data-box" id="type">'
+							+ DemoType + '</span>'
+							+ '<span class="data-box" id="authe">' + DemoAuthor
+							+ '</span>' + '</div>' + '</div>' + '</div>';
+					//console.log(AddNew);
+				}
+				//console.log($(".show"));
+				$(".show").empty().append(AddNew);
+			}
+		});
+	</script>
+</body>
+
+</html>

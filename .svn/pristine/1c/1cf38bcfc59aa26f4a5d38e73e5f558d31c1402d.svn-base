@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <title>网络视频热度分析系统</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- Iconos -->
+    <link rel="stylesheet" href="css/style.css" media="screen" type="text/css" />
+    <link rel="stylesheet" href="css/basic.css" />
+		<link rel="stylesheet" href="font-awesome-4.5.0/css/font-awesome.min.css" />
+		<script type="text/javascript" src="js/jquery.js" ></script>
+</head>
+
+<body>
+	<!-- Contenedor -->
+	<iframe src="header.html" width="100%" height="60px" frameborder=0></iframe>
+	
+	<div id="menu" style=" overflow:auto">
+	<ul id="accordion" class="accordion">
+		<li>
+			<div class="link"><i class="fa fa-area-chart"></i>热门视屏<i class="fa fa-chevron-down"></i></div>
+			<ul class="submenu hot-shiping" id="hot-shiping">
+			</ul>
+		</li>
+		<li>
+			<div class="link"><i class="fa fa-line-chart"></i>分类热度<i class="fa fa-chevron-down"></i></div>
+			<ul class="submenu hot-fenglei">
+			</ul>
+		</li>
+		<li id="author">
+			<div class="link"><i class="fa fa-thumbs-o-up"></i>作者</div>
+		</li>
+	</ul>
+	</div>
+	<script>
+	var TypeName = [];
+	$.ajax({
+		type:"get",
+		url:"/vhas/handler/video/type",
+		async:true,
+		dataType:"json",
+		success:function(data){
+			var newdata = data.data.types;
+			for(var i=0;i<newdata.length;i++){
+				TypeName.push(newdata[i].name);
+			}
+			
+			var browse_html='<li class="hot-shipingNo1 hot-ShipingSon"><a>总榜</a></li>';
+				for(var i=0;i<TypeName.length;i++){
+				browse_html +=  '<li class="hot-ShipingSon"><a>'+TypeName[i] + '</a></li>'
+				}
+				$(".hot-shiping").empty().append(browse_html).delegate(".hot-ShipingSon","click",function(){
+					var ishow = document.getElementById("ishow");
+					ishow.setAttribute("SonNameData",this.innerText);
+			//alert(ishow.getAttribute("SonNameData"));
+					ishow.src = "biaoge.html";
+				});
+				
+				//var sign = ;id="hot+'i'+"
+				var browse_html_two='<li class="hot-fengleiNo1"><a href="#" >总榜</a></li>';
+				for(var i=0;i<TypeName.length;i++){
+				browse_html_two +=  '<li class="hot-fengleison"><a href="#">'+TypeName[i] + '</a></li>'
+				}
+				//console.log(browse_html);
+		$(".hot-fenglei").empty().append(browse_html_two).delegate(".hot-fengleiNo1","click",function(){
+			//console.log();
+			var ishow = document.getElementById("ishow");
+			ishow.src =  "hot-hanju.html";
+		}).delegate(".hot-fengleison","click",function(){
+			var ishow = document.getElementById("ishow");
+			ishow.setAttribute("SonNameData",this.innerText);
+			//alert(ishow.getAttribute("SonNameData"));
+			ishow.src = "hot-dongman.html";
+		});
+		}
+	});
+	var authorId=document.getElementById("author");
+	//console.log(authorId);
+	authorId.onclick=function(){
+		var ishow = document.getElementById("ishow");
+		ishow.src = "authorpaihang.html";
+	}
+	</script>
+	<iframe SonNameData = "" id="ishow" src="hot-dongman.html" width="1049px" height="600px" scrolling="auto" frameborder=0></iframe>
+	
+  <script src="js/index.js"></script>
+  <script type="text/javascript" src="js/run.js" ></script>
+</body>
+
+</html>

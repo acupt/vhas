@@ -1,0 +1,37 @@
+﻿{
+	"code": 0,
+	"msg": "",
+	"data": {
+		"video": {
+			"id": 222222,
+			"webId": 1,
+			"authorId": null,
+			"vlistId": null,
+			"vid": "4749348",
+			"url": "http://www.bilibili.com/video/av4749348/",//连接
+			"title": "【电音·舒缓型】Astrid S - Hurts So Good",//标题
+			"length": null,//时长
+			"time": 1464056880000,//长传时间
+			"uptime": 1466092800000,//更新时间
+			"comment": null,//评论的数量，空的显示0
+			"click": 48,//点击量
+			"share": 0,//分享数
+			"danmu": 1,
+			"favorite": 0,//收藏
+			"like": null,
+			"dislike": null,
+			"coin": 1,
+			"type": "音乐|同人音乐",//类型
+			"typeidweb": null,
+			"typeId": null,
+			"author": "摇曳菠萝",//作者
+			"uid": "2988691",
+			"tag": null,//标签
+			"copyright": null,
+			"img": null,//图片
+			"director": null,
+			"actor": null,
+			"video_id": null
+		}
+	}
+}

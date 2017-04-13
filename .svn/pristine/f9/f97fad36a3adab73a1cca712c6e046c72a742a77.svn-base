@@ -1,0 +1,20 @@
+{
+   "code":0,
+   "msg":"",
+   "data":{
+   "typeup":[
+   {"name":null,"parent":null,"click":36565105,"childs":null,"uptime":"2016-06-16"},
+   {"name":null,"parent":null,"click":98361245,"childs":null,"uptime":"2016-06-17"},
+   {"name":null,"parent":null,"click":125267773,"childs":null,"uptime":"2016-06-18"},
+   {"name":null,"parent":null,"click":102281601,"childs":null,"uptime":"2016-06-19"},
+   {"name":null,"parent":null,"click":6597324,"childs":null,"uptime":"2016-06-20"},
+   {"name":null,"parent":null,"click":118704041,"childs":null,"uptime":"2016-06-21"},
+   {"name":null,"parent":null,"click":84585590,"childs":null,"uptime":"2016-06-22"},
+   {"name":null,"parent":null,"click":31846537,"childs":null,"uptime":"2016-06-23"},
+   {"name":null,"parent":null,"click":78059731,"childs":null,"uptime":"2016-06-24"},
+   {"name":null,"parent":null,"click":70634916,"childs":null,"uptime":"2016-06-25"},
+   {"name":null,"parent":null,"click":125000,"childs":null,"uptime":"2016-06-27"}],
+   "type":"生活"
+   }
+}
+

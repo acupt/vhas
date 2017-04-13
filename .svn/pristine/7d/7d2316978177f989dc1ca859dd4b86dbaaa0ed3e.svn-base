@@ -1,0 +1,52 @@
+package com.swust.vhas.service;
+
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.stereotype.Service;
+
+import com.swust.vhas.dao.AuthorDao;
+import com.swust.vhas.model.Author;
+
+@Service
+public class AuthorService {
+
+	@Autowired
+	@Qualifier("authorDao")
+	private AuthorDao authorDao;
+
+	public int deleteByPrimaryKey(Integer id) {
+		return authorDao.deleteByPrimaryKey(id);
+	}
+
+	public int insert(Author record) {
+		return authorDao.insert(record);
+	}
+
+	public int insertSelective(Author record) {
+		return authorDao.insertSelective(record);
+	}
+
+	public Author selectByPrimaryKey(Integer id) {
+		return authorDao.selectByPrimaryKey(id);
+	}
+
+	public int updateByPrimaryKeySelective(Author record) {
+		return authorDao.updateByPrimaryKeySelective(record);
+	}
+
+	public int updateByPrimaryKey(Author record) {
+		return authorDao.updateByPrimaryKey(record);
+	}
+
+	public List<Author> selectUpdate(Integer webId, String uid) {
+		Map<String, Object> map = new HashMap<>();
+		map.put("webId", webId);
+		map.put("uid", uid);
+		return authorDao.selectUpdate(map);
+	}
+
+}
