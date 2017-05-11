@@ -1,17 +1,16 @@
 package com.swust.vhas.service;
 
-import java.util.Collection;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-
+import com.swust.vhas.dao.VideoDao;
+import com.swust.vhas.model.Type;
+import com.swust.vhas.model.Video;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
 
-import com.swust.vhas.dao.VideoDao;
-import com.swust.vhas.model.Type;
-import com.swust.vhas.model.Video;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 @Service
 public class VideoService {
@@ -20,15 +19,9 @@ public class VideoService {
     @Qualifier("videoDao")
     private VideoDao videoDao;
 
-    private static Collection<Type> types;
+    private static List<Type> types = new ArrayList<Type>();
 
-    public static Collection<Type> getTypes() {
-        return types;
-    }
-
-    public static void setTypes(Collection<Type> types) {
-        VideoService.types = types;
-    }
+    private static long lastTypeUpdate = 0;
 
     public int deleteByPrimaryKey(Integer id) {
         return videoDao.deleteByPrimaryKey(id);
@@ -65,39 +58,13 @@ public class VideoService {
         return videoDao.selectTop(map);
     }
 
-    @SuppressWarnings("static-access")
-    public Collection<Type> selectAllTypes(Integer webId) {
-        if (types != null)
+    public List<Type> selectAllTypes(Integer webId) {
+        if (System.currentTimeMillis() - lastTypeUpdate < 1000 * 60 * 60) {
             return types;
-        // this.types = new ArrayList<Type>();
-        Map<String, Type> map = new HashMap<String, Type>();
-        List<Type> types = videoDao.selectAllTypes(webId);
-        for (int i = 0; i < types.size(); i++) {
-            String name = types.get(i).name;
-            long click = types.get(i).click;
-            if (name == null || name.equals("") || name.contains("null"))
-                continue;
-            int index = name.indexOf('|');
-            if (index <= 0)
-                continue;
-            String parent = null;
-            String child = null;
-            try {
-                parent = name.substring(0, index);// 父级
-                child = name.substring(index + 1, name.length());// 子项
-            } catch (Exception e) {
-                System.out.println(e.getMessage());
-                continue;
-            }
-            // System.out.println(parent + "-" + child + ":" + click);
-            Type type = map.get(parent);
-            if (type == null)
-                type = new Type(parent);
-            type.addChild(new Type(child, parent, click));
-            map.put(parent, type);
         }
-        this.types = map.values();
-        return this.types;
+        lastTypeUpdate = System.currentTimeMillis();
+        types = videoDao.selectAllTypes(webId);
+        return types;
     }
 
     public List<Type> selectUpdateByType(String type) {

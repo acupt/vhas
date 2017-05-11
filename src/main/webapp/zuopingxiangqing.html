@@ -1,363 +1,365 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title></title>
-<style>
-* {
-	margin: 0px;
-	padding: 0px;
-}
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        * {
+            margin: 0px;
+            padding: 0px;
+        }
 
-.demo {
-	width: 980px;
-	height: 190px;
-	border-bottom: 1px solid #b8c0cc;
-	margin: 0px auto;
-}
+        .demo {
+            width: 980px;
+            height: 190px;
+            border-bottom: 1px solid #b8c0cc;
+            margin: 0px auto;
+        }
 
-.tupian {
-	width: 114px;
-	float: left;
-	border-radius: 4px;
-	overflow: hidden;
-}
+        .tupian {
+            width: 114px;
+            float: left;
+            border-radius: 4px;
+            overflow: hidden;
+        }
 
-.tupian img {
-	width: 100%;
-	height: 70px;
-	display: block;
-	margin: 19px auto;
-	float: left;
-	margin-left: 10px;
-}
+        .tupian img {
+            width: 100%;
+            height: 70px;
+            display: block;
+            margin: 19px auto;
+            float: left;
+            margin-left: 10px;
+        }
 
-.info {
-	margin-left: 0px;
-	width: 500px;
-	margin-top: 19px;
-	display: block;
-	float: left;
-	height: 70px;
-	padding-right: 0px;
-	margin-left: 20px;
-}
+        .info {
+            margin-left: 0px;
+            width: 500px;
+            margin-top: 19px;
+            display: block;
+            float: left;
+            height: 70px;
+            padding-right: 0px;
+            margin-left: 20px;
+        }
 
-.title {
-	height: 20px;
-	width: 500px;
-	line-height: 20px;
-	overflow: hidden;
-	font-weight: bold;
-	font-size: 14px;
-	float: left;
-}
+        .title {
+            height: 20px;
+            width: 500px;
+            line-height: 20px;
+            overflow: hidden;
+            font-weight: bold;
+            font-size: 14px;
+            float: left;
+        }
 
-.detail {
-	margin-top: 20px;
-	color: #99a2aa;
-	width: 550px;
-	height: 16px;
-	display: block;
-	float: left;
-	font-size: 12px;
-}
+        .detail {
+            margin-top: 20px;
+            color: #99a2aa;
+            width: 550px;
+            height: 16px;
+            display: block;
+            float: left;
+            font-size: 12px;
+        }
 
-.data-box {
-	margin-right: 20px;
-	margin-bottom: 10px;
-	width: 150px;
-	white-space: nowrap;
-	overflow: hidden;
-	text-overflow: ellipsis;
-	display: inline-block;
-	vertical-align: top;
-	height: 14px;
-	line-height: 12px;
-}
+        .data-box {
+            margin-right: 20px;
+            margin-bottom: 10px;
+            width: 150px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            display: inline-block;
+            vertical-align: top;
+            height: 14px;
+            line-height: 12px;
+        }
 
-#url {
-	width: 500px;
-}
+        #url {
+            width: 500px;
+        }
 
-.demo:hover {
-	border: 1px solid lightskyblue;
-}
+        .demo:hover {
+            border: 1px solid lightskyblue;
+        }
 
-a {
-	outline: 0;
-	color: black;
-	text-decoration: none;
-	cursor: pointer;
-}
+        a {
+            outline: 0;
+            color: black;
+            text-decoration: none;
+            cursor: pointer;
+        }
 
-a:hover {
-	color: #00a1d6;
-}
+        a:hover {
+            color: #00a1d6;
+        }
 
-.Author {
-	float: right;
-	width: 300px;
-	height: 190px;
-	border-left: 1px solid lightgray;
-}
+        .Author {
+            float: right;
+            width: 300px;
+            height: 190px;
+            border-left: 1px solid lightgray;
+        }
 
-.Author img {
-	display: block;
-	height: 64px;
-	width: 64px;
-	border-radius: 64px;
-	margin: 0 auto;
-	border: 2px solid transparent;
-	position: relative;
-	z-index: 10;
-	float: left;
-}
+        .Author img {
+            display: block;
+            height: 64px;
+            width: 64px;
+            border-radius: 64px;
+            margin: 0 auto;
+            border: 2px solid transparent;
+            position: relative;
+            z-index: 10;
+            float: left;
+        }
 
-.AuthorStyle {
-	margin-top: 30px;
-	color: #99a2aa;
-	height: 16px;
-	display: block;
-	float: right;
-	font-size: 12px;
-}
+        .AuthorStyle {
+            margin-top: 30px;
+            color: #99a2aa;
+            height: 16px;
+            display: block;
+            float: right;
+            font-size: 12px;
+        }
 
-.AthourSlogan {
-	margin: 1px auto;
-	width: 200px;
-}
-p{
+        .AthourSlogan {
+            margin: 1px auto;
+            width: 200px;
+        }
 
-display:"block";
-float:left;
-margin-left:100px;
-padding-top:100px;
-font-weight:bold;
-}
-</style>
-<script type="text/javascript" src="js/echarts.min.js"></script>
-<script type="text/javascript" src="js/jquery.js"></script>
-<link rel="stylesheet" href="css/basic.css" />
+        p {
+
+            display: "block";
+            float: left;
+            margin-left: 100px;
+            padding-top: 100px;
+            font-weight: bold;
+        }
+    </style>
+    <script type="text/javascript" src="js/echarts.min.js"></script>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <link rel="stylesheet" href="css/basic.css"/>
 </head>
 <body>
-	<div class="demo"></div>
-	
-	<div id="show">
-	<p>热度变化<p>
-		<div id="dongman" class="weizi" style="width: 900px; height: 400px;"></div>
-	</div>
-	<script>
-		var WindowUrl = window.location.href;
-		var WorkWindowUrl = WindowUrl.split('=');
+<div class="demo"></div>
 
-		var DemoId = WorkWindowUrl[1];
-		var DemoAuthorId = WorkWindowUrl[2];
-		var DemoVid = WorkWindowUrl[3];
-		var DemoWebId = WorkWindowUrl[4];
-		var WorkUrl = "/vhas/handler/video/detail?id=" + DemoId;
-		var WorkUrl1 = "/vhas/handler/author/detail?id=" + DemoAuthorId;
-		//alert(chT[0]);
-		//alert(chT[1]);
-		/*var ch1 = WorkWindowUrl[1];
-		var sign = ch1.split('T');
-		var sign1 = sign[0];
-		var sign2 = sign[1];
-		var num = sign1.split('=');
-		var DemoId = num[1];
-		var num1 = sign2.split('=');
-		var AuthorId = num1[1];
-		alert(numsign1);
-		alert(numsign2);*/
-		/*var WorkWindowUrl1 = WorkWindowUrl[1];
-		var WindowNum = WorkWindowUrl1.split('=');
-		var WindowNum1 = WindowNum.split('D');
-		var WorkWindowNum1 = WindowNum[0];
-		alert(WorkWindowNum1);
-		var WorkUrl = '/vhas/handler/video/detail?id=' + WorkWindowNum;
-		var WorkUrl1 = 'json/author.json';*/
-		$.ajax({
-			type : "get",
-			//url: UrlName,
-			url : WorkUrl,
-			async : true,
-			dataType : "json",
-			success : function(data) {
-				//alert(WindowUrl);
-				//alert('asd');
-				var newdata = data.data.video;
-				var AddNew = "";
-				var d = new Date(newdata.time); //根据时间戳生成的时间对象
-				var date = (d.getFullYear()) + "-" + (d.getMonth() + 1)
-						+ "-" + (d.getDate())
-						
-				var d1 = new Date(newdata.time); //根据时间戳生成的时间对象
-				var date1 = (d1.getFullYear()) + "-" + (d1.getMonth() + 1)
-						+ "-" + (d1.getDate())
-						
-				AddNew += '<div class="tupian">' + '<img src="img/1.jpg" />'
-						+ '</div>' + '<div class="info">'
-						+ '<div class="title">'
-						+ newdata.title
-						+ '</div>'
-						+ '<div class="detail">'
-						+ '<span class="data-box" id="url">'
-						+ newdata.url
-						+ '</span>'
-						+ '<span class="data-box" id="length">'
-						+ '时长'
-						+ newdata.length
-						+ '</span>'
-						+ '<span class="data-box" id="time">'
-						+ '上传时间：'
-						+ date
-						+ '</span>'
-						+ '<span class="data-box" id="uptime">'
-						+ '更新时间：'
-						+ date1	
-						+ '</span>'
-						+ '<span class="data-box" id="comment">'
-						+ '评论数量：'
-						+ newdata.comment
-						+ '</span>'
-						+ '<span class="data-box" id="click">'
-						+ '点击数量：'
-						+ newdata.click
-						+ '</span>'
-						+ '<span class="data-box" id="share">'
-						+ '分享数量：'
-						+ newdata.share
-						+ '</span>'
-						+ '<span class="data-box" id="favorite">'
-						+ '收藏：'
-						+ newdata.favorite
-						+ '</span>'
-						+ '<span class="data-box" id="type">'
-						+ '类型：'
-						+ newdata.type
-						+ '</span>'
-						+ '<span class="data-box" id="author">'
-						+ '作者：'
-						+ newdata.author
-						+ '</span>'
-						+ '<span class="data-box" id="tag">'
-						+ '标签：'
-						+ newdata.tag + '</span>' + '</div>' + '</div>';
-				$(".demo").empty().append(AddNew);
-			}
-		});
+<div id="show">
+    <p>热度变化
+    <p>
+    <div id="dongman" class="weizi" style="width: 900px; height: 400px;"></div>
+</div>
+<script>
+    var WindowUrl = window.location.href;
+    var WorkWindowUrl = WindowUrl.split('=');
 
-		$.ajax({
-			type : "get",
-			//url: UrlName,
-			url : WorkUrl1,
-			//url:'json/author.json',
-			async : true,
-			dataType : "json",
-			success : function(data) {
-				//alert("zzz");
+    var DemoId = WorkWindowUrl[1];
+    var DemoAuthorId = WorkWindowUrl[2];
+    var DemoVid = WorkWindowUrl[3];
+    var DemoWebId = WorkWindowUrl[4];
+    var WorkUrl = "/vhas/handler/video/detail?id=" + DemoId;
+    var WorkUrl1 = "/vhas/handler/author/detail?id=" + DemoAuthorId;
+    //alert(chT[0]);
+    //alert(chT[1]);
+    /*var ch1 = WorkWindowUrl[1];
+     var sign = ch1.split('T');
+     var sign1 = sign[0];
+     var sign2 = sign[1];
+     var num = sign1.split('=');
+     var DemoId = num[1];
+     var num1 = sign2.split('=');
+     var AuthorId = num1[1];
+     alert(numsign1);
+     alert(numsign2);*/
+    /*var WorkWindowUrl1 = WorkWindowUrl[1];
+     var WindowNum = WorkWindowUrl1.split('=');
+     var WindowNum1 = WindowNum.split('D');
+     var WorkWindowNum1 = WindowNum[0];
+     alert(WorkWindowNum1);
+     var WorkUrl = '/vhas/handler/video/detail?id=' + WorkWindowNum;
+     var WorkUrl1 = 'json/author.json';*/
+    $.ajax({
+        type: "get",
+        //url: UrlName,
+        url: WorkUrl,
+        async: true,
+        dataType: "json",
+        success: function (data) {
+            //alert(WindowUrl);
+            //alert('asd');
+            var newdata = data.data.video;
+            var AddNew = "";
+            var d = new Date(newdata.time); //根据时间戳生成的时间对象
+            var date = (d.getFullYear()) + "-" + (d.getMonth() + 1)
+                    + "-" + (d.getDate())
 
-				var newdata1 = data.data.author;
-				console.log(newdata1);
-				//console.log(WorkUrl1);
-				//alert("asd");
-				var AddNew = "";
-				AddNew += '<div class="Author">'
-						+ '<img src="'+newdata1.img+'" />'
-						+ '<span class="data-box AuthorStyle" id="AthorName">'
-						+ newdata1.name + '</span>'
-						+ '<div class="AthourSlogan">'
-						+ '<span class="AuthorStyle" id="AthorName">'
-						+ newdata1.slogan + '</span>' + '</div>' + '</div>';
-				$(".demo").append(AddNew);
-			}
-		});
-		var myChart = echarts.init(document.getElementById('dongman'));
-		myChart.setOption({
-			title : {
-				text : ''
-			},
-			tooltip : {
-				trigger : 'axis'
-			},
-			legend : {
-				data : []
-			},
-			grid : {
-				left : '3%',
-				right : '4%',
-				bottom : '3%',
-				containLabel : true
-			},
-			toolbox : {
-				feature : {
-					saveAsImage : {}
-				}
-			},
-			xAxis : {
-				type : 'category',
-				boundaryGap : false,
-				data : []
-			},
-			yAxis : {
-				type : 'value'
-			},
-			series : [ {
-				name : '',
-				type : 'line',
-				stack : '总量',
-				data : []
-			} ]
-		});
-		// 异步加载数据
-		var xData = [];
-		var yData = [];
-		var dtype = [];
-		var sign = parent.document.getElementById("ishow");
-		//console.log(sign);
-		//var signname = sign.getAttribute("SonNameData");
-		var namepingjie = "/vhas/handler/video/videoup?webId=" + DemoWebId
-				+ "&vid=" + DemoVid;
-		//console.log(namepingjie);
-		//console.log(namepingjie);
-		$.ajax({
-			type : "get",
-			//url: UrlName,
-			url : namepingjie,
-			async : true,
-			dataType : "json",
-			success : function(data) {
-				var newdata = data.data.videos;
-				var dataType = data.data.type;
-				//console.log(dataType);
-				for (var i = 0; i < newdata.length; i++) {
+            var d1 = new Date(newdata.time); //根据时间戳生成的时间对象
+            var date1 = (d1.getFullYear()) + "-" + (d1.getMonth() + 1)
+                    + "-" + (d1.getDate())
 
-					yData.push(newdata[i].click);
-					var d = new Date(newdata[i].uptime); //根据时间戳生成的时间对象
-					var date = (d.getFullYear()) + "-" + (d.getMonth() + 1)
-							+ "-" + (d.getDate())
-					xData.push(date);
-					//y.push({,})
-				}
-				dtype.push(dataType);
-				myChart.setOption({
-					title : {
-						text : dataType
-					},
-					xAxis : {
-						data : xData
-					},
-					legend : {
-						data : dataType
-					},
-					series : [ {
-						// 根据名字对应到相应的系列
-						name : dataType,
-						data : yData
-					} ]
-				});
-			}
-		});
-	</script>
+            AddNew += '<div class="tupian">' + '<img src="' + newdata.img + '" />'
+                    + '</div>' + '<div class="info">'
+                    + '<div class="title">'
+                    + newdata.title
+                    + '</div>'
+                    + '<div class="detail">'
+                    + '<span class="data-box" id="url">'
+                    + newdata.url
+                    + '</span>'
+                    + '<span class="data-box" id="length">'
+                    + '时长'
+                    + newdata.length
+                    + '</span>'
+                    + '<span class="data-box" id="time">'
+                    + '上传时间：'
+                    + date
+                    + '</span>'
+                    + '<span class="data-box" id="uptime">'
+                    + '更新时间：'
+                    + date1
+                    + '</span>'
+                    + '<span class="data-box" id="comment">'
+                    + '评论数量：'
+                    + newdata.comment
+                    + '</span>'
+                    + '<span class="data-box" id="click">'
+                    + '点击数量：'
+                    + newdata.click
+                    + '</span>'
+                    + '<span class="data-box" id="share">'
+                    + '分享数量：'
+                    + newdata.share
+                    + '</span>'
+                    + '<span class="data-box" id="favorite">'
+                    + '收藏：'
+                    + newdata.favorite
+                    + '</span>'
+                    + '<span class="data-box" id="type">'
+                    + '类型：'
+                    + newdata.type
+                    + '</span>'
+                    + '<span class="data-box" id="author">'
+                    + '作者：'
+                    + newdata.author
+                    + '</span>'
+                    + '<span class="data-box" id="tag">'
+                    + '标签：'
+                    + newdata.tag + '</span>' + '</div>' + '</div>';
+            $(".demo").empty().append(AddNew);
+        }
+    });
+
+    $.ajax({
+        type: "get",
+        //url: UrlName,
+        url: WorkUrl1,
+        //url:'json/author.json',
+        async: true,
+        dataType: "json",
+        success: function (data) {
+            //alert("zzz");
+
+            var newdata1 = data.data.author;
+            console.log(newdata1);
+            //console.log(WorkUrl1);
+            //alert("asd");
+            var AddNew = "";
+            AddNew += '<div class="Author">'
+                    + '<img src="' + newdata1.img + '" />'
+                    + '<span class="data-box AuthorStyle" id="AthorName">'
+                    + newdata1.name + '</span>'
+                    + '<div class="AthourSlogan">'
+                    + '<span class="AuthorStyle" id="AthorName">'
+                    + newdata1.slogan + '</span>' + '</div>' + '</div>';
+            $(".demo").append(AddNew);
+        }
+    });
+    var myChart = echarts.init(document.getElementById('dongman'));
+    myChart.setOption({
+        title: {
+            text: ''
+        },
+        tooltip: {
+            trigger: 'axis'
+        },
+        legend: {
+            data: []
+        },
+        grid: {
+            left: '3%',
+            right: '4%',
+            bottom: '3%',
+            containLabel: true
+        },
+        toolbox: {
+            feature: {
+                saveAsImage: {}
+            }
+        },
+        xAxis: {
+            type: 'category',
+            boundaryGap: false,
+            data: []
+        },
+        yAxis: {
+            type: 'value'
+        },
+        series: [{
+            name: '',
+            type: 'line',
+            stack: '总量',
+            data: []
+        }]
+    });
+    // 异步加载数据
+    var xData = [];
+    var yData = [];
+    var dtype = [];
+    var sign = parent.document.getElementById("ishow");
+    //console.log(sign);
+    //var signname = sign.getAttribute("SonNameData");
+    var namepingjie = "/vhas/handler/video/videoup?webId=" + DemoWebId
+            + "&vid=" + DemoVid;
+    //console.log(namepingjie);
+    //console.log(namepingjie);
+    $.ajax({
+        type: "get",
+        //url: UrlName,
+        url: namepingjie,
+        async: true,
+        dataType: "json",
+        success: function (data) {
+            var newdata = data.data.videos;
+            var dataType = data.data.type;
+            //console.log(dataType);
+            for (var i = 0; i < newdata.length; i++) {
+
+                yData.push(newdata[i].click);
+                var d = new Date(newdata[i].uptime); //根据时间戳生成的时间对象
+                var date = (d.getFullYear()) + "-" + (d.getMonth() + 1)
+                        + "-" + (d.getDate())
+                xData.push(date);
+                //y.push({,})
+            }
+            dtype.push(dataType);
+            myChart.setOption({
+                title: {
+                    text: dataType
+                },
+                xAxis: {
+                    data: xData
+                },
+                legend: {
+                    data: dataType
+                },
+                series: [{
+                    // 根据名字对应到相应的系列
+                    name: dataType,
+                    data: yData
+                }]
+            });
+        }
+    });
+</script>
 </body>
 </html>
