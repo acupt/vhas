@@ -38,14 +38,15 @@ public class VideoController {
         calendar.set(Calendar.MINUTE, 0);
         calendar.set(Calendar.SECOND, 0);
         calendar.set(Calendar.MILLISECOND, 0);
+        //根据前台传过来的字段选择查询的开始时间
         if ("day".equals(time)) {
-            calendar.add(Calendar.DATE, -1);
+            calendar.add(Calendar.DATE, -1);//从一天前开始查询
         } else if ("week".equals(time)) {
-            calendar.add(Calendar.WEEK_OF_YEAR, -1);
+            calendar.add(Calendar.WEEK_OF_YEAR, -1);//一个周前
         } else if ("month".equals(time)) {
-            calendar.add(Calendar.MONTH, -1);
+            calendar.add(Calendar.MONTH, -1);//一个月前
         } else if ("year".equals(time)) {
-            calendar.add(Calendar.YEAR, -1);
+            calendar.add(Calendar.YEAR, -1);//一年
         } else {
             calendar = null;
         }
