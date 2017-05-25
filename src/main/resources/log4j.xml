@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+<log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/">
+
+    <appender name="rootAppender" class="org.apache.log4j.DailyRollingFileAppender">
+        <param name="File" value="/home/admin/logs/vhas/root.log"/>
+        <layout class="org.apache.log4j.PatternLayout">
+            <param name="ConversionPattern"
+                   value="%d{yyyy-MM-dd HH:mm:ss,SSS},%p,%C{1},%M,%m%n"/> <!-- 设置输出文件项目和格式 -->
+        </layout>
+    </appender>
+    <logger name="root"> <!-- 设置域名限制，即zcw.log域及以下的日志均输出到下面对应的通道中 -->
+        <level value="info"/> <!-- 设置级别 -->
+        <appender-ref ref="rootAppender"/> <!-- 与前面的通道id相对应 -->
+    </logger>
+    <root>
+        <level value="info"/>
+        <appender-ref ref="rootAppender"/>
+    </root>
+
+    <appender name="serviceAppender" class="org.apache.log4j.DailyRollingFileAppender">
+        <param name="File" value="/home/admin/logs/vhas/service.log"/> <!-- 设置File参数：日志输出文件名 -->
+        <layout class="org.apache.log4j.PatternLayout">
+            <param name="ConversionPattern"
+                   value="%d{yyyy-MM-dd HH:mm:ss,SSS},%p,%C{1},%M,%m%n"/> <!-- 设置输出文件项目和格式 -->
+        </layout>
+    </appender>
+    <logger name="com.swust.vhas.service.VideoService">
+        <level value="info"/>
+        <appender-ref ref="rootAppender"/>
+    </logger>
+
+    <appender name="requestAppender" class="org.apache.log4j.DailyRollingFileAppender">
+        <param name="File" value="/home/admin/logs/vhas/request.log"/> <!-- 设置File参数：日志输出文件名 -->
+        <layout class="org.apache.log4j.PatternLayout">
+            <param name="ConversionPattern"
+                   value="%d{yyyy-MM-dd HH:mm:ss,SSS},%p,%C{1},%M,%m%n"/> <!-- 设置输出文件项目和格式 -->
+        </layout>
+    </appender>
+    <logger name="com.swust.vhas.filter.RequestFilter">
+        <level value="info"/>
+        <appender-ref ref="requestAppender"/>
+    </logger>
+
+</log4j:configuration>

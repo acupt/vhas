@@ -8,7 +8,7 @@ import com.google.gson.Gson;
 public class JsonUtil {
     private static Gson gson = new Gson();
 
-    public static String t(Object object) {
+    public static String toJson(Object object) {
         return gson.toJson(object);
     }
 }

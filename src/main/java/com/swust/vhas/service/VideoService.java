@@ -3,8 +3,8 @@ package com.swust.vhas.service;
 import com.swust.vhas.dao.VideoDao;
 import com.swust.vhas.model.Type;
 import com.swust.vhas.model.Video;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+import com.swust.vhas.util.JsonUtil;
+import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
@@ -17,7 +17,7 @@ import java.util.Map;
 @Service
 public class VideoService {
 
-    private Logger logger = LoggerFactory.getLogger(getClass());
+    private Logger logger = Logger.getLogger(getClass());
 
     @Autowired
     @Qualifier("videoDao")
@@ -64,11 +64,12 @@ public class VideoService {
 
     public List<Type> selectAllTypes(Integer webId) {
         if (System.currentTimeMillis() - lastTypeUpdate < 1000 * 60) {
-            logger.info("selectAllTypes use cache ");
+            logger.info("selectAllTypes use cache " + JsonUtil.toJson(types));
             return types;
         }
         lastTypeUpdate = System.currentTimeMillis();
         types = videoDao.selectAllTypes(webId);
+        logger.info("selectAllTypes update " + JsonUtil.toJson(types));
         return types;
     }
 

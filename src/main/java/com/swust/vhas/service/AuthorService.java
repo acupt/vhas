@@ -2,6 +2,7 @@ package com.swust.vhas.service;
 
 import com.swust.vhas.dao.AuthorDao;
 import com.swust.vhas.model.Author;
+import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
@@ -12,6 +13,8 @@ import java.util.Map;
 
 @Service
 public class AuthorService {
+
+    private Logger logger = Logger.getLogger(getClass());
 
     @Autowired
     @Qualifier("authorDao")
@@ -45,7 +48,9 @@ public class AuthorService {
         Map<String, Object> map = new HashMap<String, Object>();
         map.put("webId", webId);
         map.put("uid", uid);
-        return authorDao.selectUpdate(map);
+        List<Author> list = authorDao.selectUpdate(map);
+        logger.info("author update " + webId + " " + uid + " " + list.size());
+        return list;
     }
 
     public List<Author> selectTop(Integer size) {
