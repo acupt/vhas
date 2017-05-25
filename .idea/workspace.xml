@@ -1,164 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b58d3a89-5800-4f3a-b2ff-8b90fa65fd80" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dictionaries/yunpian.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/entries" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/format" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/03/0369380f751d5ae5e178877b872dfa212af3dd4d.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/08/080158aeb1bf6df59ec98b2bbed44da61d9c9ca3.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/0f/0f07d54f88a9f6c743d133be8d4446879a1e6729.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/12/12d6861075de8e293265ff6ff03b1f3adcb44c76.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/13/13d75f96ceb54dd0df745088be4383c05d763ad2.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/13/13ee3ad4d1e19dec8e68c1076bf22b299b3e9f05.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/16/164b6a0a2b307cd293f4a914ab0fcdf643950374.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/16/169fe40c015c912dc4f4aaa37800395b771c356f.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/18/18653e7a42ec0488aa0d30efba20c7b729b04304.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/1a/1a37352286619b789d151a06eb4b7551e4c1aaa2.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/1b/1b0eeaaefcd1d101ffe618d1fc64af205fe81239.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/1b/1b2a1ea9ca640a817a19bcc372a94ecbedbf9ac5.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/1c/1cf38bcfc59aa26f4a5d38e73e5f558d31c1402d.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/22/224417ca266c657849afb2bbcb6dc455894ff387.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/26/26b000a875e9b3bd561904d5086df3f0678f2c16.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/29/294f674c219e06ad6250ae6496e4467c461671c5.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/29/2966e4d4abe4118c1e23955b024d7fd8eec1c019.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/2b/2b1350bf1ad60f59be786a1a4e2cb8db7812ab5d.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/2b/2b630d91b5c61b9f7fb7865ea9fb6c4b8810f757.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/34/3438f7b4f0c7308f769e39de5e73701569156daa.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/34/34a112cab415b3fd74a498e78451a173b1683575.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/34/34b63953bc94f13d023a86c43e8d9bc03614c0f6.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/39/39cc772e7746a1314f949df3400fa05cbf79406e.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/3a/3a0717f78374197641fd7a9ff30dffe4c3207e10.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/3d/3dd6c1fa45707d81d8af0bdb96ef1c496f8a83f3.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/3f/3f9e90f7afb8b7b44554a80f23532f1f2098714b.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/41/41dfc0a6c92707948578891c51d98c6443be63cc.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/42/421f2c4e10191f148c13b8a34e5ff3f484d4c393.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/42/429f141f3fb8d208aa120b27f56b2752e11e2969.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/42/42c179eef588854b5ec151bcf6a3f58aa8b79b11.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/44/44d97901e862e450cc13e356d7f29945ba3a6460.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/44/44f7b1c6f6b409dc5d6d51a5d5c2f0b66e7d1c50.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/46/46ec312c81097bf847eb88773c5c01cad685ac91.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/47/47108f118b6a9643774b718dd4c56f4c81ce681b.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/48/48ae4729dfb59e6bd4ffb8e035c409ca0882dd17.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/49/49721314edf351dbcc594e581c585d6844cefec9.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/4a/4a313eb93b959cc4154c684b915b0a31ddb68d84.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/4a/4ad0645f0e36f1bdca1c8351d2754ef8216ebcd4.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/4b/4b53ee01513df8b9ce76442b2d8f1851613a435c.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/4b/4bccf1428c511d11d77b629a4b34c3dc9a0bb94b.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/4c/4c514498f0e82cccfdd3208b9caff2f45158db4a.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/4d/4da186296a08c3eaef7c9f10b6a602a259cf1556.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/50/50a5e0b454a39fe07bf854b09e84f4a76641f722.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/55/55a14a34267edc401b82e5ee41d8bd84fbb5da3f.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/56/5655d18a0f691cb0e838ae7bfb4ea23e767bc1d7.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/59/5931795f5831f13d7b2bbfa06e4f429f5f1f575b.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/5a/5a7ff5db66e422714a0bd67fcce9f5ac3251db39.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/5d/5d24b1c4625f7a49a41b7da005885b16702e56ac.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/5d/5d5e41354e88322e4bc590b31f3d2d1d52b3e6ac.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/5e/5e7387d46ae8d960c3554cbc1340744e47a6ecac.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/62/624682da7da2566b3c8d2d5fb268d8a73899b3ea.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/63/638c652d623280a58144f93e7b552c66d1667a11.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/64/6484f1af6b485d5096b71b344e67f4164c33dd1f.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/68/68e3bf0067ed2133bc6e5896a658e40bb4318aa0.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/69/699ffb52ece53e5874ccd1e18a723cc24d099b0e.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/69/69a4c537d167b68a0ccf1c6febd138aeffca60d6.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/6b/6b0448c479fd1dcc556e295cc0ef6e4675de9cdc.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/6b/6bd9adedddbb83a9a5359f7fba62fd908d056a6c.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/6d/6ded398f4f0ee03a13218dad917e29adcc4714dc.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/73/73b66f5055fa3fe5973c7a33a434cf33c2b83105.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/74/7458a68ff0301fcca0213da4232debbfecff5282.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/77/77cf688c0d91127a538fafe76c897d17fcb7b3d1.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/78/78b0fe6b7cd2ecd4d03f2406715f953b8c0390b3.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/79/796070102267568057c9d6e549f7605423b660dc.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/7a/7ae2401a33325cbd73565a29e5421adfab9e3492.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/7d/7d2316978177f989dc1ca859dd4b86dbaaa0ed3e.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/84/842367f5f4fbaf78faa11e2426d8c50bd6c4c9d4.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/84/84d744f1cbbc113016f2802a37bfb20380fbfc72.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/85/85ea4e2b158af5b6557c1251e2459c0d73e7ca13.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/86/86410d7bed9d06c1d1bb6070207a4f5f1283d3d4.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/87/87ab9531e1222351568346cf9057a0cae36112b8.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/88/881f9ddef2c9947e0b5240fe8ed1fbb13da93537.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/89/89148f373e8fdfa593d972ba5653aacb133b4d2d.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/8d/8daf189b2f8a404495b8424b6fd1ba630dd1c2dc.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/92/92b6fb7aa8fb9a051edb0ae4c3343de70f9802c1.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/93/93a49b5ccebc71345f5d142e560cd08ce6090cb6.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/94/94064619514d6f3ee07dd49bac02a6fb9183071f.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/94/940e1c5ebc690283bfaee92560cf15fabedbf6a9.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/94/944deceef1002eb2bf82b6385bf515b347a3d52a.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/95/95c0c161c596be4b5c174b7eb74540c180398bb8.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/95/95de5de9009714692430b04f9cd4388be8fba8f3.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/98/986eed8dca049714e43eeebcb3932741a4bec76d.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/9d/9d6961020418e27fa4833758fbcd2b05677cd811.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/9f/9f6eb04ca1bad6a23bddffcab10c81cd50feb4f0.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/a1/a112be21c325d37ebc17baafd40c0386b5d09df1.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/a1/a192cdf584c3d3cccdecee0228c225aca1129c53.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/a1/a1c7cb2dba3ee441427a30763bba0b6080b3b8bb.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/a2/a2c292137b17406183ad0fdbf4880fd648b9a5ca.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/a5/a52089f9073815a80f32fb3d4fa2aefe29ffd68a.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/ab/abc2022b29ac5a905f79e080611ddb3b865ccb2b.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/ad/ad192fe0d566650c548d62494be0933a56446ab9.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/b0/b06b5c8f67fd632cdc62a33b62ae4f74194131b3.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/b1/b15532cb0ed426a75ab93f0b9990ff3d542ffa05.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/b3/b3a741242569219eaf7bee9cf8b52042a226f6c0.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/b4/b488600451227b445414796e9b8550e7c1bd6d29.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/b9/b9069c45245f9ea14730156805934413b51dc14d.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/ba/ba7e42127947e306e64779ab5902737065467ae0.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/bb/bb944d4232cbb9599cf6da2b25b364ac0d1f6a62.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/bb/bbe83c739d22eecfacd06d7e0b99ba13277040ed.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/be/be7814ce44bfc09798813fc0a4f2e7df93d1bada.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/bf/bf3447074d3bb348fa4a83a2743fcd1420483781.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/c2/c2458a804170dfd1ad643662a47f5317d2d10c4a.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/c4/c4aba0b74363fff5697c0d082dff6b0911ad622b.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/c5/c58b23bb2cac6c31ce5b86d13aac13e29b4122c1.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/ca/ca08a0af3da63c2f2a7d3c27a8747637744cc785.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/cd/cd7d4f28f84df99c17e776873e0d00ea4e5f8d68.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/cf/cf6752ee609af36eb293a7197c88d31ecacbbc74.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/d0/d076d2487546a7a0f8446b8f4523288c3e6c1b79.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/d2/d25aaa98e8e43fc0c8d20f74323e670e2300d5ff.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/d3/d3aab1d2297dc3ccfa8295b2e341eb23b2d58055.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/d3/d3c61ff6ffeba231faee395d685a8dd22794498d.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/d4/d413cbb1f27691d772353026eaf8cc7f07bbf7db.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/d4/d4574215c9f4b4c8a99c53a24cf75204e3b1daab.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/d4/d484a833555f187f2c607a59d136f423ef3a0af4.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/d5/d502e54ad1a043e65f2af901a9ab425efa38aea1.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/d6/d6113f702af49af4c629426e2d1ccdcda0a6d2ee.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/d6/d66c30087881a71c5d07b711ebb5d06cb9bbd1b3.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/d9/d96e763727150a8200ab97c84b9040adeb249faa.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/d9/d9a9f7b99c253023fbbd33a3de4818744316e306.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/dc/dc085029d9868f9667208aef17a8c5dd6623a9e0.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/dc/dc8b100d2977dc34e71e7af8f5f5a6fc47977946.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/e0/e0082e7647c18625c2a33662b13f3e03e6c81e07.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/e0/e020198c346cfa6b4d595ac299bde2c82a3f62d7.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/e0/e0495b936b471810e89be1fdf2f9ab325dd8bb0d.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/e1/e1d402a33e3f193ab8a5cf3ea463dafb29e93e60.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/e2/e24a22bcf64feee4aed75908be8461f0539487fd.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/e3/e353b094df763f7e62808603f1818702e733e5c0.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/e4/e46fa0f20a1d83f9217c38db3a98f8beccf3da78.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/e6/e673dc186279beaedf60688095e137a7496a539f.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/e6/e674b3b9f665c46f443b68e6bea80ae3788b27e4.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/e7/e7119e82dc50540dbc3472bba7d74282815a7ecc.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/e8/e83cfa278b12d0880f50d802c6566cae2e04e951.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/e8/e86c0c0e072d8e57db81701087f84e9edbc9d687.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/eb/ebc70254d21502fd8731f00b4624f26ed14efe29.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/ec/ec0c24b97184dab86177660f486b8d08cd636c42.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/ec/ecb152f7ee25d5aea42db8cf3694a21d7f7b24c6.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/ed/ed5e6d919d92a53a74511f3b6d2293b70ea90ca3.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/ee/eeff684a53263e1e7a48a0509a0b2633f644f0ef.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/ef/efb071bf6a739865549278ee0ace24106b64dc74.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/f0/f044077bc8be1a989c245254e81eb084d52d29a7.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/f0/f0f40c4dd45f17b1fd196aa38464bf6058b9ccd8.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/f3/f34c6e45c5a8f078cea8140dcc0e2c774bd3dd90.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/f4/f4b48f9c12a2ce42193861c4173d75d67b74f029.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/f5/f53bc20884a1410d950b4a36a330c5181a8b55ab.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/f7/f70ceacec6ee722a5c132ff4407cc111a0ffa9b8.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/f9/f97fad36a3adab73a1cca712c6e046c72a742a77.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/f9/f9ec95991adcbad7bf3c49ad1a68b33dfba2062f.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/fa/fa1938b8ed2c21c954b4173d7967f1c5c593b8cb.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/pristine/fb/fb77f9d7b718a4ef77fa324deb0bd1f26b7e23be.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.svn/wc.db" afterPath="" />
+    <list default="true" id="b58d3a89-5800-4f3a-b2ff-8b90fa65fd80" name="Default" comment="del svn">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_1.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/swust/vhas/controller/AuthorController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/swust/vhas/controller/VideoController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/swust/vhas/dao/AuthorDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/swust/vhas/dao/VideoDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/swust/vhas/model/Author.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/swust/vhas/model/Type.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/swust/vhas/model/Video.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/swust/vhas/service/AuthorService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/swust/vhas/service/VideoService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/swust/vhas/view/JsonAndView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/jdbc.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/logback.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/mapper/AuthorMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/mapper/VideoMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring-mvc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring-mybatis.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/sql/author.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/sql/video.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/com.swust/vhas/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/com.swust/vhas/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/classes/com/swust/vhas/controller/AuthorController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/classes/com/swust/vhas/controller/VideoController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/classes/com/swust/vhas/dao/AuthorDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/classes/com/swust/vhas/dao/VideoDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/classes/com/swust/vhas/model/Author.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/classes/com/swust/vhas/model/Type.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/classes/com/swust/vhas/model/Video.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/classes/com/swust/vhas/service/AuthorService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/classes/com/swust/vhas/service/VideoService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/classes/com/swust/vhas/view/JsonAndView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/classes/jdbc.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/classes/logback.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/classes/mapper/AuthorMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/classes/mapper/VideoMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/classes/spring-mvc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/classes/spring-mybatis.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/classes/sql/author.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/classes/sql/video.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/errorpage/401.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/errorpage/404.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/errorpage/405.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/errorpage/500.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/internal-servlet.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/commons-beanutils-1.8.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/commons-codec-1.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/commons-dbcp-1.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/commons-dbcp2-2.0.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/commons-lang3-3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/commons-logging-1.1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/commons-pool-1.5.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/commons-pool2-2.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-core-asl-1.9.13.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/jcl-over-slf4j-1.7.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/json.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/jtds-1.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/logback-classic-1.1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/logback-core-1.1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/logback-ext-spring-0.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/mybatis-3.2.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/mybatis-spring-1.2.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.31.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/ooxml-schemas-1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/poi-3.9-20121203.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/poi-3.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/poi-examples-3.9-20121203.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/poi-excelant-3.9-20121203.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/poi-ooxml-3.9-20121203.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/poi-ooxml-3.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/poi-ooxml-schemas-3.9-20121203.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/poi-ooxml-schemas-3.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/poi-scratchpad-3.9-20121203.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/spring-aop-4.0.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/spring-beans-4.0.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/spring-context-4.0.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/spring-context-support-4.0.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/spring-core-4.0.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/spring-expression-4.0.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.0.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/spring-oxm-4.0.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/spring-tx-4.0.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/spring-web-4.0.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.0.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/stax-api-1.0.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/lib/xmlbeans-2.3.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/authorpaihang.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/authorxiangqing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/biaoge.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/css/basic.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/HELP-US-OUT.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/less/animated.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/less/bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/less/fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/less/font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/less/larger.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/less/list.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/less/rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/less/stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/scss/_animated.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/scss/_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/scss/_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/scss/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/scss/_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/scss/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/scss/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/scss/_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/scss/_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/font-awesome-4.5.0/scss/font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/header.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/hot-dongman.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/hot-hanju.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/img/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/img/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/img/logo1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/js/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/js/echarts.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/js/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/js/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/js/run.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/vhas-0.0.1-SNAPSHOT/zuopingxiangqing.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/vhas_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/vhas_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vhas.iml" afterPath="$PROJECT_DIR$/vhas.iml" />
     </list>
     <ignored path="vhas.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -178,6 +168,153 @@
   <component name="FavoritesManager">
     <favorites_list name="vhas" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="VideoController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/swust/vhas/controller/VideoController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1275">
+              <caret line="96" column="64" selection-start-line="96" selection-start-column="64" selection-end-line="96" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AuthorController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/swust/vhas/controller/AuthorController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VideoService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/swust/vhas/service/VideoService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="75" column="42" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#800#801#0" expanded="false" />
+                <element signature="e#854#855#0" expanded="false" />
+                <element signature="e#893#894#0" expanded="false" />
+                <element signature="e#939#940#0" expanded="false" />
+                <element signature="e#987#988#0" expanded="false" />
+                <element signature="e#1042#1043#0" expanded="false" />
+                <element signature="e#1093#1094#0" expanded="false" />
+                <element signature="e#1147#1148#0" expanded="false" />
+                <element signature="e#1207#1208#0" expanded="false" />
+                <element signature="e#1274#1275#0" expanded="false" />
+                <element signature="e#1325#1326#0" expanded="false" />
+                <element signature="e#1383#1384#0" expanded="false" />
+                <element signature="e#2559#2560#0" expanded="false" />
+                <element signature="e#2614#2615#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VideoDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/swust/vhas/dao/VideoDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VideoMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/VideoMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6780">
+              <caret line="452" column="69" selection-start-line="452" selection-start-column="63" selection-end-line="452" selection-end-column="69" />
+              <folding>
+                <marker date="1492138997000" expanded="true" signature="2451:2545" ph="select from video" />
+                <marker date="1492138997000" expanded="true" signature="2627:2680" ph="delete from " />
+                <marker date="1492138997000" expanded="true" signature="2759:3832" ph="insert into video... " />
+                <marker date="1492138997000" expanded="true" signature="7517:9707" ph="update video... " />
+                <marker date="1492138997000" expanded="true" signature="9798:10925" ph="update video... " />
+                <marker date="1492138997000" expanded="true" signature="11021:11445" ph="select from video" />
+                <marker date="1492138997000" expanded="true" signature="11537:11674" ph="select from video" />
+                <marker date="1492138997000" expanded="true" signature="11794:11948" ph="select type video" />
+                <marker date="1492138997000" expanded="true" signature="12071:12194" ph="select SUM(c... videoupdate" />
+                <marker date="1492138997000" expanded="true" signature="12295:12458" ph="SELECT FROM videoupdate" />
+                <marker date="1492138997000" expanded="true" signature="12570:12673" ph="SELECT FROM video" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="del.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/sql/del.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+              <folding>
+                <marker date="1494667128000" expanded="true" signature="93:138" ph="DELETE FROM " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="author.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/sql/author.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="45" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="video.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/sql/video.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="52" column="23" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logback.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -186,11 +323,39 @@
       <projects_view />
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/swust/vhas/controller/AuthorController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/hot-hanju.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/hot-dongman.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/zuopingxiangqing.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/sql/del.sql" />
+        <option value="$PROJECT_DIR$/src/main/resources/sql/author.sql" />
+        <option value="$PROJECT_DIR$/src/main/resources/sql/video.sql" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/swust/vhas/service/VideoService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/swust/vhas/util/JsonUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/VideoMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/swust/vhas/controller/VideoController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/logback.xml" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -200,6 +365,45 @@
         <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="vhas" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="vhas" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
   </component>
   <component name="MavenRunner">
     <option name="jreName" value="1.7" />
@@ -266,9 +470,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -289,6 +492,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -298,10 +502,68 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -327,6 +589,161 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -348,12 +765,88 @@
       <patterns />
       <method />
     </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="vhas" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -384,9 +877,140 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="vhas" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.70" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="vhas:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/vhas" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_vhas_2" />
+        <option name="HTTP_PORT" value="11111" />
+        <option name="JNDI_PORT" value="11121" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55203" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="vhas:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.vhas" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -395,44 +1019,87 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1492139163590</updated>
-      <workItem from="1492139164916" duration="44000" />
+      <workItem from="1492139164916" duration="247000" />
+      <workItem from="1492519146679" duration="1968000" />
+      <workItem from="1492582219374" duration="1371000" />
+      <workItem from="1493781347880" duration="528000" />
+      <workItem from="1493878328311" duration="920000" />
+      <workItem from="1494140209834" duration="671000" />
+      <workItem from="1494488011985" duration="5632000" />
+      <workItem from="1494659538931" duration="4955000" />
+      <workItem from="1495003887952" duration="1318000" />
+      <workItem from="1495024496337" duration="3241000" />
+      <workItem from="1495198842257" duration="515000" />
+      <workItem from="1495449702507" duration="1437000" />
+      <workItem from="1495697001964" duration="551000" />
     </task>
+    <task id="LOCAL-00001" summary="del svn">
+      <created>1492139227300</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1492139227300</updated>
+    </task>
+    <task id="LOCAL-00002" summary="注释">
+      <created>1494140754597</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1494140754597</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix">
+      <created>1494496781843</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1494496781843</updated>
+    </task>
+    <task id="LOCAL-00004" summary="v2">
+      <created>1495451041655</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1495451041655</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44000" />
+    <option name="totallyTimeSpent" value="23354000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="23" width="1376" height="877" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962519" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21910828" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24887556" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35031846" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -446,8 +1113,465 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="del svn" />
+    <MESSAGE value="注释" />
+    <MESSAGE value="fix" />
+    <MESSAGE value="v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="v2" />
+  </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
     <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/AuthorMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/swust/vhas/dao/AuthorDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/sql/video.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/VideoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1492138997000" expanded="true" signature="2451:2545" ph="select from video" />
+            <marker date="1492138997000" expanded="true" signature="2627:2680" ph="delete from " />
+            <marker date="1492138997000" expanded="true" signature="2759:3832" ph="insert into video... " />
+            <marker date="1492138997000" expanded="true" signature="7517:9707" ph="update video... " />
+            <marker date="1492138997000" expanded="true" signature="9798:10925" ph="update video... " />
+            <marker date="1492138997000" expanded="true" signature="11021:11445" ph="select from video" />
+            <marker date="1492138997000" expanded="true" signature="11537:11674" ph="select from video" />
+            <marker date="1492138997000" expanded="true" signature="11794:11948" ph="select type video" />
+            <marker date="1492138997000" expanded="true" signature="12071:12194" ph="select SUM(c... videoupdate" />
+            <marker date="1492138997000" expanded="true" signature="12295:12458" ph="SELECT FROM videoupdate" />
+            <marker date="1492138997000" expanded="true" signature="12570:12673" ph="SELECT FROM video" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/swust/vhas/service/AuthorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/AuthorMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/swust/vhas/dao/AuthorDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/sql/video.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/VideoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1492138997000" expanded="true" signature="2451:2545" ph="select from video" />
+            <marker date="1492138997000" expanded="true" signature="2627:2680" ph="delete from " />
+            <marker date="1492138997000" expanded="true" signature="2759:3832" ph="insert into video... " />
+            <marker date="1492138997000" expanded="true" signature="7517:9707" ph="update video... " />
+            <marker date="1492138997000" expanded="true" signature="9798:10925" ph="update video... " />
+            <marker date="1492138997000" expanded="true" signature="11021:11445" ph="select from video" />
+            <marker date="1492138997000" expanded="true" signature="11537:11674" ph="select from video" />
+            <marker date="1492138997000" expanded="true" signature="11794:11948" ph="select type video" />
+            <marker date="1492138997000" expanded="true" signature="12071:12194" ph="select SUM(c... videoupdate" />
+            <marker date="1492138997000" expanded="true" signature="12295:12458" ph="SELECT FROM videoupdate" />
+            <marker date="1492138997000" expanded="true" signature="12570:12673" ph="SELECT FROM video" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/swust/vhas/service/AuthorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/sql/author.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/swust/vhas/service/AuthorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/internal-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/internal-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/swust/vhas/dao/AuthorDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/AuthorMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4500">
+          <caret line="300" column="9" selection-start-line="300" selection-start-column="9" selection-end-line="300" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/swust/vhas/service/AuthorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="50" column="24" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/hot-hanju.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/hot-dongman.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="24" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/swust/vhas/model/Type.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/zuopingxiangqing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="246" column="25" selection-start-line="246" selection-start-column="25" selection-end-line="246" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3795">
+          <caret line="253" column="21" selection-start-line="253" selection-start-column="21" selection-end-line="253" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/swust/vhas/util/JsonUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/swust/vhas/dao/VideoDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/swust/vhas/controller/AuthorController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/swust/vhas/controller/VideoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="96" column="64" selection-start-line="96" selection-start-column="64" selection-end-line="96" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/swust/vhas/service/VideoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="75" column="42" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#800#801#0" expanded="false" />
+            <element signature="e#854#855#0" expanded="false" />
+            <element signature="e#893#894#0" expanded="false" />
+            <element signature="e#939#940#0" expanded="false" />
+            <element signature="e#987#988#0" expanded="false" />
+            <element signature="e#1042#1043#0" expanded="false" />
+            <element signature="e#1093#1094#0" expanded="false" />
+            <element signature="e#1147#1148#0" expanded="false" />
+            <element signature="e#1207#1208#0" expanded="false" />
+            <element signature="e#1274#1275#0" expanded="false" />
+            <element signature="e#1325#1326#0" expanded="false" />
+            <element signature="e#1383#1384#0" expanded="false" />
+            <element signature="e#2559#2560#0" expanded="false" />
+            <element signature="e#2614#2615#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/VideoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6780">
+          <caret line="452" column="69" selection-start-line="452" selection-start-column="63" selection-end-line="452" selection-end-column="69" />
+          <folding>
+            <marker date="1492138997000" expanded="true" signature="2451:2545" ph="select from video" />
+            <marker date="1492138997000" expanded="true" signature="2627:2680" ph="delete from " />
+            <marker date="1492138997000" expanded="true" signature="2759:3832" ph="insert into video... " />
+            <marker date="1492138997000" expanded="true" signature="7517:9707" ph="update video... " />
+            <marker date="1492138997000" expanded="true" signature="9798:10925" ph="update video... " />
+            <marker date="1492138997000" expanded="true" signature="11021:11445" ph="select from video" />
+            <marker date="1492138997000" expanded="true" signature="11537:11674" ph="select from video" />
+            <marker date="1492138997000" expanded="true" signature="11794:11948" ph="select type video" />
+            <marker date="1492138997000" expanded="true" signature="12071:12194" ph="select SUM(c... videoupdate" />
+            <marker date="1492138997000" expanded="true" signature="12295:12458" ph="SELECT FROM videoupdate" />
+            <marker date="1492138997000" expanded="true" signature="12570:12673" ph="SELECT FROM video" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/sql/author.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/sql/video.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="23" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/sql/del.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding>
+            <marker date="1494667128000" expanded="true" signature="93:138" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
